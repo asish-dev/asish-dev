@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @asish-dev
-- 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning Backend Technologies
+- 👀 I’m interested in Front-End Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asish043@gmail.com
 
