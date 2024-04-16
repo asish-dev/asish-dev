@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @asish-dev
-- 👀 I’m interested in Front-End Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me asish043@gmail.com
+
+
+Portfolio - https://asish.vercel.app
+Work Github - https://github.com/rizz-asish
 
 <!---
 asish-dev/asish-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
